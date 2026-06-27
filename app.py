@@ -18,7 +18,7 @@ st.markdown("""
         .hero h1 {
             font-size: 2.2rem;
             font-weight: 700;
-            color: #1a1a1a;
+            color: inherit;
             margin-bottom: 0.3rem;
         }
         .hero p {
